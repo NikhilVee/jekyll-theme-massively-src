@@ -1,5 +1,5 @@
 ---
-title: Massively
+title: LSSC
 timezone: UTC
 collections:
   posts:
@@ -16,8 +16,8 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     author: 
-bio: Jekyll version of the Massively theme by HTML5UP
-description: Jekyll version of the Massively theme by HTML5UP
+bio: Laurier Ski ad Snowboard Club
+description: Laurier Ski ad Snowboard Club
 locale: en_US
 baseurl: ''
 url: ''
